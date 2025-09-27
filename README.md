@@ -24,8 +24,7 @@ The aim of the E-commerce Sales Dashboard project was to provide a comprehensive
 * Add Card chart, Area chart, Donut chart, Matrix chart, Bar chart, Map etc
 
 # Power BI Dashboard
-This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/ecommerce-sales-dashboard-power-bi-1
-
+This is an interactive Power BI Dashboard for E-commerece sales and revenue data 
 ![image](https://github.com/jaseel342/Ecommerce_Sales_Dashboard/assets/135998004/9ecca50d-aa0d-4169-8b8d-f3ee085414fb)
 
 # Summary
