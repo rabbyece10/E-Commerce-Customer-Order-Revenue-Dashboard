@@ -3,6 +3,8 @@ The aim of the E-commerce Sales Dashboard project was to provide a comprehensive
 
 # Tools Used
 * Power BI
+* SQL
+* Python (Pandas)
 * Power Query
 * Dax Query
 * Data modeling
